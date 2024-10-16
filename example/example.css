@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    color: #007ACC;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+p,
+ul {
+    font-size: 14px;
+}
+
+ul {
+    list-style: none;
+}
+
+strong {
+    font-weight: bold;
+}

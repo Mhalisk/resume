@@ -1,0 +1,9 @@
+{
+  // Markdown PDF
+  "markdown-pdf.convertOnSaveExclude": ["README.md", "example.md"],
+  "markdown-pdf.convertOnSave": true,
+  "markdown-pdf.styles": ["./styles/testResume.css"],
+  "markdown-pdf.type": ["pdf"],
+  "markdown-pdf.displayHeaderFooter": false,
+  "markdown-pdf.printBackground": true
+}
