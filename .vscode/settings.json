@@ -3,7 +3,7 @@
   "markdown-pdf.convertOnSaveExclude": ["README.md", "example.md"],
   "markdown-pdf.convertOnSave": true,
   "markdown-pdf.styles": ["./resume/styles/resume-template-1.css"],
-  "markdown-pdf.type": ["pdf"],
+  "markdown-pdf.type": ["pdf", "png"],
   "markdown-pdf.displayHeaderFooter": false,
   "markdown-pdf.printBackground": true
 }
