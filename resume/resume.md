@@ -33,7 +33,7 @@
 
 <div class="section-header">
    <h3>Senior Technical Lead</h3>
-   <span class="date">August 2023 - Present</span>
+   <span class="date">August 2023 - October 2024</span>
 </div>
 <div>
    <span class="company">Solo LLC</span>
@@ -46,7 +46,7 @@
 
 <div class="section-header">
    <h3>Platform Engineer</h3>
-   <span class="date">August 2023 - Present</span>
+   <span class="date">July 2022 - August 2023</span>
 </div>
 <div>
    <span class="company">Solo LLC</span>
@@ -60,7 +60,7 @@
 
 <div class="section-header">
    <h3>Product Engineer</h3>
-   <span class="date">August 2023 - Present</span>
+   <span class="date">November 2017 - July 2022</span>
 </div>
 <div>
    <span class="company">Solo LLC</span>
@@ -79,7 +79,7 @@
 
 <div class="section-header">
    <h3>University of Utah</h3>
-   <span class="date">August 2023 - Present</span>
+   <span class="date">August 2022</span>
 </div>
 <div>
    <span class="company">College of Humanities</span>
@@ -89,7 +89,7 @@
 
 <div class="section-header">
    <h3>Bottega University</h3>
-   <span class="date">August 2023 - Present</span>
+   <span class="date">August 2019</span>
 </div>
 <div>
    <span class="company">Full Stack Development Certificate</span>

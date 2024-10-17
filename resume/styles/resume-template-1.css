@@ -58,12 +58,12 @@ strong {
 }
 
 .company {
-    font-size: 14px;
+    font-size: 13px;
     font-style: italic;
 }
 
 .date {
     float: right;
-    font-size: 14px;
+    font-size: 12px;
     font-style: italic;
 }
