@@ -19,7 +19,7 @@
 
 ---
 
-<div class="content-header">
+<div class="section-header">
    <h3>Senior Software Engineer</h3>
    <span class="date">August 2023 - Present</span>
 </div>
@@ -31,7 +31,7 @@
 - Developed microservices in Ruby on Rails, NodeJS, React and Docker, creating system modularity.
 - Led technical decisions that aligned with business priorities, cutting time to market.
 
-<div class="content-header">
+<div class="section-header">
    <h3>Senior Technical Lead</h3>
    <span class="date">August 2023 - Present</span>
 </div>
@@ -44,7 +44,7 @@
 - Impact business strategies by considering how decisions might affect software systems holistically, including concerns around scalability, security, and infrastructure
 - Mentor junior developers to succeed in a fast-paced full stack environment
 
-<div class="content-header">
+<div class="section-header">
    <h3>Platform Engineer</h3>
    <span class="date">August 2023 - Present</span>
 </div>
@@ -58,7 +58,7 @@
 - Managed technical debt, prioritizing resolution based on the severity of security vulnerabilities
 - Developed scripts that significantly enhanced the development workflow, boosting productivity and efficiency for over 80 software engineers
 
-<div class="content-header">
+<div class="section-header">
    <h3>Product Engineer</h3>
    <span class="date">August 2023 - Present</span>
 </div>
@@ -77,7 +77,7 @@
 
 ---
 
-<div class="content-header">
+<div class="section-header">
    <h3>University of Utah</h3>
    <span class="date">August 2023 - Present</span>
 </div>
@@ -87,7 +87,7 @@
 
 - Specialized in a blend of information systems and business courses as electives to establish interdisciplinary knowledge of how the humanities and technology can drive business success
 
-<div class="content-header">
+<div class="section-header">
    <h3>Bottega University</h3>
    <span class="date">August 2023 - Present</span>
 </div>

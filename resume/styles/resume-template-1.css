@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    line-height: 1.05;
+    line-height: 1.075;
 }
 
 h1 {
@@ -51,7 +51,7 @@ strong {
     font-weight: bold;
 }
 
-.content-header {
+.section-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
