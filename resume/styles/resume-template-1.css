@@ -51,6 +51,10 @@ strong {
     font-weight: bold;
 }
 
+.main-header-content {
+    margin-top: 5px;
+}
+
 .section-header {
     display: flex;
     justify-content: space-between;

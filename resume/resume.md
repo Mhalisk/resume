@@ -4,7 +4,7 @@
    <div> 
       <span class="main-header-title">Senior Software Engineer</span>
    </div>
-   <div> 
+   <div class="main-header-content"> 
       <span>Salt Lake City, UT -</span>
       <span>(801) 854-6024</span>
    </div>
