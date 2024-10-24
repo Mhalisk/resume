@@ -1,10 +1,10 @@
 body {
     font-family: Arial, sans-serif;
-    line-height: 1.071;
+    line-height: 1.075;
 }
 
 h1 {
-    font-size: 34px;
+    font-size: 40px;
     font-weight: bold;
     border-bottom: none;
     padding-bottom: 0px;
@@ -33,6 +33,7 @@ hr {
 p,
 ul {
     margin-top: 0px;
+    margin-bottom: 8px;
     font-size: 14px;
 }
 
@@ -43,7 +44,7 @@ strong {
 
 .main-header {
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
 }
 
 .main-header-title {
