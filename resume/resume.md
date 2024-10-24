@@ -46,7 +46,7 @@
 - Refactored legacy systems to eliminate technical debt, enabling future product scalability and making previously impossible features feasible
 
 <div class="section-header">
-   <h3>Platform Engineer</h3>
+   <h3>Platform Software Engineer</h3>
    <span class="date">July 2022 - August 2023</span>
 </div>
 <div>
@@ -60,7 +60,7 @@
 - Developed quality-of-life scripts that boosted development workflow productivity for 40+ engineers
 
 <div class="section-header">
-   <h3>Product Engineer</h3>
+   <h3>Product Software Engineer</h3>
    <span class="date">November 2017 - July 2022</span>
 </div>
 <div>
