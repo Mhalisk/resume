@@ -83,7 +83,7 @@
    <span class="date">Graduated: August 2022</span>
 </div>
 <div>
-   <span class="company">College of Humanities</span>
+   <span class="company">Bachelor of Arts</span>
 </div>
 
 - Specialized in an interdisciplinary blend of information systems, business strategy, and humanities
