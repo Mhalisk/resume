@@ -104,8 +104,8 @@
 
 ---
 
-- **Backend/Server-side**: Node.js, Ruby, ExpressJS, NestJS
+- **Backend/Server-side**: Node.js, Ruby, ExpressJS, NestJS, Ruby on Rails
 - **Frontend**: JavaScript, TypeScript, React, MobX, HTML, CSS, MaterialUI, Bootstrap
 - **Databases**: PostgreSQL, MySQL, Firebase
-- **Cloud/DevOps Tools**: Google Cloud Platform, Docker, Kubernetes, Terraform
+- **Cloud/DevOps Tools**: Google Cloud Platform, Docker, Kubernetes, Terraform, Nginx, Gitlab CI/CD
 - **Testing**: Jest, Mocha, Chai, Apache JMeter
